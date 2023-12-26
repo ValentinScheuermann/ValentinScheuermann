@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋, I'm Santiago Scheuermann
+Full Stack Developer
+🙋‍♂️I have liked technology since I was a child, I consider myself someone very creative, curious and hard-working. I really enjoy the process of creating solutions from programming and web design.
 
-<!--
-**ValentinScheuermann/ValentinScheuermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✅I am passionate about working on user experience. That is why I also trained as a UX/UI designer.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: Typescript,Figma,React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: React, Redux, UX/UI.
+
+📫 How to reach me: https://linktr.ee/SantiagoScheuermann
+
+⚡ Additional info: Drummer and Drone Pilot
+
+⭐ Languages and Tools:
+
+FrontEnd: React | Redux | Vite | Bootstrap | CSS | Figma
+
+BackEnd: Node | Express | JavaScript
+
+Database: PostgreSQL | Sequelize
